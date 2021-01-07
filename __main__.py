@@ -5,4 +5,5 @@ def print(variabel):
         Popen(["echo", variabel])
 
 for x in range(15):
-	print("This is sparta")
+	print("This is sparta \nJakob was here and he loves coding!")
+
